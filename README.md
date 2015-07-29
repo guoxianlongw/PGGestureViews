@@ -1,6 +1,8 @@
 # PGGestureViews
 高仿支付宝手势解锁，用keychain保存密码，将苹果官方keychain进一步封装，用法和NSUserdefault相同。无图片，解耦性强，使用coregraphic绘制。
 
+![gifImage](https://raw.githubusercontent.com/guoxianlongw/PGGestureViews/master/PGGPic.gif)
+
 
       //typedef enum {
       //    AlertPwdModel,    //修改密码 (需要先输入老密码)
@@ -33,4 +35,3 @@
 
 
 
-![gifImage](https://raw.githubusercontent.com/guoxianlongw/PGGestureViews/master/PGGPic.gif)
