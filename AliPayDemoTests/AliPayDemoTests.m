@@ -2,8 +2,8 @@
 //  AliPayDemoTests.m
 //  AliPayDemoTests
 //
-//  Created by guoxianlong on 15/7/8.
-//  Copyright (c) 2015年 guoxianlong. All rights reserved.
+//  Created by pg on 15/7/8.
+//  Copyright (c) 2015年 pg. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
