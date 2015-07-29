@@ -97,38 +97,20 @@
  */
 - (void)setPassword
 {
-    
     [self forgotPassword];
     SetpasswordViewController *setpass = [[SetpasswordViewController alloc] init];
     setpass.string = @"重置密码";
     [self presentViewController:setpass animated:YES completion:nil];
-    
-
 }
-
-
-
-
 
 /**
  *  忘记密码
  */
 - (void)forgotPassword
 {
-    
     [KeychainData forgotPsw];
-
-    
     [self hudAction:@"忘记密码"];
-    
 }
-
-
-
-
-
-
-
 /**
  *  修改密码
  */
@@ -136,18 +118,13 @@
 {
     BOOL isSave = [KeychainData isSave]; //是否有保存
     if (isSave) {
-        
         SetpasswordViewController *setpass = [[SetpasswordViewController alloc] init];
         setpass.string = @"修改密码";
         [self presentViewController:setpass animated:YES completion:nil];
     } else {
         [self hudAction:@"还没有设置密码，不能修改密码"];
     }
-    
 }
-
-
-
 /**
  *  验证密码
  */
@@ -163,8 +140,6 @@
     } else {
         [self hudAction:@"还没有设置密码，不能直接登录"];
     }
-    
-    
 }
 
 

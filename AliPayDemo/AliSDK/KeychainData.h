@@ -36,8 +36,8 @@
 
 
 
-
-
+/****   KeychainData.m  *****/
+/*****************   根据keychain官网的，封装，增，取，删。都只需一句话  *********************/
 + (void)setObject:(id)object forKey:(id)key;
 + (id)objectForKey:(id)key;
 + (void)removeObjectForKey:(id)key;

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>04CB1C7E-6704-440F-B087-3521CA13DEA0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AliPayDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>02937104858487EDB3C86F0AE6D05A39E8F67C1F</key>
+		<string>https://github.com/guoxianlongw/PGGestureViews.git</string>
+		<key>844FA71F52D3515E8B000EE0002BFC4876EB4C11</key>
+		<string>https://github.com/guoxianlongw/PGScView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AliPayDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>02937104858487EDB3C86F0AE6D05A39E8F67C1F</key>
+		<string>../..</string>
+		<key>844FA71F52D3515E8B000EE0002BFC4876EB4C11</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/guoxianlongw/PGGestureViews.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>02937104858487EDB3C86F0AE6D05A39E8F67C1F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>844FA71F52D3515E8B000EE0002BFC4876EB4C11</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>02937104858487EDB3C86F0AE6D05A39E8F67C1F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AliPayDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
