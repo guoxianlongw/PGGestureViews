@@ -1,9 +1,11 @@
 # PGGestureViews
 高仿支付宝手势解锁，用keychain保存密码，将苹果官方keychain进一步封装，用法和NSUserdefault相同。无图片，解耦性强，使用coregraphic绘制。
 
+![gifImage](https://raw.githubusercontent.com/guoxianlongw/PGGestureViews/master/PGGPic.gif)
+
+
 ![PGGestureViews](https://raw.githubusercontent.com/guoxianlongw/PGGestureViews/master/1.png)
 ![PGGestureViews](https://raw.githubusercontent.com/guoxianlongw/PGGestureViews/master/2.png)
-![gifImage](https://raw.githubusercontent.com/guoxianlongw/PGGestureViews/master/PGGPic.gif)
 
 
       //typedef enum {
